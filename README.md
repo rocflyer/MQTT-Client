@@ -3,8 +3,8 @@
 > MQTT client assistant made with Qt, can be used for testing
 
 
-![](https://raw.githubusercontent.com/rocflyer/MQTT-Client/tree/master/screenshot/send.png/send.png)
+![receive.png](https://raw.githubusercontent.com/rocflyer/MQTT-Client/tree/master/screenshot/receive.png)
 
 
 
-![](https://raw.githubusercontent.com/rocflyer/MQTT-Client/tree/master/screenshot/send.png/receive.png)
+![send.png](https://raw.githubusercontent.com/rocflyer/MQTT-Client/tree/master/screenshot/send.png)
